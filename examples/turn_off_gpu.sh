@@ -35,6 +35,7 @@ methods="
 \_SB.PCI0.RP05.PXSX._OFF
 \_SB.PCI0.GPP0.PG00._OFF
 \_SB_.PC00.PEG1.PEGP._PS3
+\_SB_.PCI0.RP05.PEGP._OFF
 "
 
 for m in $methods; do
